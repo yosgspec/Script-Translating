@@ -1,0 +1,5 @@
+#runtime "hsp3cl"
+
+mes "Hello World!"
+;–”‚Í(‚½‚¾‚µ”ñ„§)A
+print "Hello World!"
